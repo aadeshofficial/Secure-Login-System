@@ -1,0 +1,5 @@
+__pycacahe__/
+*.pyc
+*.db
+.env
+.vscode/
